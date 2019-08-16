@@ -1,4 +1,11 @@
-# vue-tozstore-sample
+# TozStore Vue Sample App
+
+## Notes
+This project is a very basic example of how to use Vue and TozStore together.  Note that this
+project does not include any CSP which should be in place in any production application.
+
+You must create a credentials.json file in the base directory.  Get credentials from your free
+Tozny account.   Sign up at https://dashboard.tozny.com
 
 ## Project setup
 ```
